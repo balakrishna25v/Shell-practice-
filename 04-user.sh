@@ -7,4 +7,4 @@
 
 
     echo "please enter your password::"
-    read "password is" $user_passwo
+    read "password is" $user_password
