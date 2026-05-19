@@ -7,10 +7,10 @@
 
 
     echo "please enter your password::"
-    read "password is $user_password "
+    read user_password 
     echo "password is $user_password"
 
-    
+
     echo "please enter your email::"
-    read "email is $user_email"
+    read  user_email
     echo "email is $user_email"
