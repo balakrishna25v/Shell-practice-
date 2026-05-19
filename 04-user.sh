@@ -8,7 +8,7 @@
 
     echo "please enter your password::"
     read user_password 
-    echo "password is $user_password"
+    echo "password is $********"
 
 
     echo "please enter your email::"
